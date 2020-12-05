@@ -7,6 +7,7 @@ Check Out and Collab!
 
 # Following things this app can do:
 1.Scrapped main image from google images on the image window
+
 2.We can switch between various images of 1 query on the main window
 3.Add many images according to our size on the main image(Using Megre Button)
 4.Quick Collage Making
