@@ -9,23 +9,36 @@ Check Out and Collab!
 1.Scrapped main image from google images on the image window
 
 2.We can switch between various images of 1 query on the main window
+
 3.Add many images according to our size on the main image(Using Megre Button)
+
 4.Quick Collage Making
+
 5.Add text on image
+
 6.Scrap text meaning and also add it on image
+
 7.Resize Both main image and merged image
+
 8.Draw on the image
 
 # Remaining Features to add: 
 1.To add image filters 
+
 2.Crop and Rotate
+
 3.To draw different shapes on image canvas
+
 4.Brush type and size
+
 5.Fixing saving image problem
+
 6.Undo
+
 7.Text font and size
 
 These features will be add in future.
+
 You can collab by adding pull request to add functionality of remaining features or any other bug fixing!
 
 
