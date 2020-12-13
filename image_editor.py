@@ -699,7 +699,7 @@ def save():
     b7 = pyautogui.center(b6)
     x,y=b7
     myScreenshot = pyautogui.screenshot(region=(x-16,y+22, 500, 500))
-    file_path = "d.jpg"
+    file_path = "save.jpg"
     myScreenshot.save(file_path)
     print("done")
     
