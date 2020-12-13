@@ -11,9 +11,7 @@ import requests # To send HTTP request to specified URL and get response content
 from bs4 import BeautifulSoup # To extract data from HTML and XML Files 
 import time
 from selenium import webdriver
-import cv2
 import glob
-from PIL import ImageGrab
 import pyautogui
 
 # Google image search url
