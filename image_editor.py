@@ -4,7 +4,6 @@ from PIL import Image,ImageDraw,ImageFont,ImageFilter,ImageChops,ImageTk # Get p
 from tkinter import Tk, Label, Button, Canvas, Toplevel, simpledialog, messagebox #import main modules
 from tkinter.filedialog import askopenfilename # To get image from the system
 import basic_functions # Get some defined functions from basic_functions.py
-from export import export # Get export function from export.py
 import tkinter as tk 
 import os # Library for interaction with operating system
 import requests # To send HTTP request to specified URL and get response content
