@@ -709,7 +709,7 @@ def view():
     global tk_im_view
     global img
     global tk_im
-    view_img = Image.open ("d.jpg") 
+    view_img = Image.open ("save.jpg") 
     tk_im_view= ImageTk.PhotoImage(view_img)
     img=view_img
     tk_im=tk_im_view
