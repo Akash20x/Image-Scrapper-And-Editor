@@ -27,15 +27,11 @@ Check Out and Collab!
 
 2.Crop and Rotate
 
-3.To draw different shapes on image canvas
+3.Brush type and size
 
-4.Brush type and size
+4.Undo
 
-5.Fixing saving image problem
-
-6.Undo
-
-7.Text font and size
+5.Text fonts
 
 These features will be add in future.
 
